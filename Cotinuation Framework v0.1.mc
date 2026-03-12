@@ -541,3 +541,195 @@ of continuation.
 ------------------------------------------------------------
 END APPENDIX
 ------------------------------------------------------------
+------------------------------------------------------------
+APPENDIX C — FUNCTIONAL PRIMITIVES OF CONTINUATION SYSTEMS
+Continuation Framework v0.1
+------------------------------------------------------------
+
+Purpose
+------------------------------------------------------------
+
+This appendix proposes that systems capable of continuation
+must maintain a small number of fundamental functional
+capacities.
+
+These capacities allow a system to maintain coherent
+interaction with its environment while preserving internal
+stability.
+
+Across biological, institutional, technological, and social
+systems, four recurring functional requirements can be
+observed.
+
+
+------------------------------------------------------------
+C1 — Coordination Function
+------------------------------------------------------------
+
+The coordination function aligns the behaviour of system
+components.
+
+Without coordination, independent parts may act in ways that
+conflict with one another, leading to system instability.
+
+Examples:
+
+Biological systems
+Neural systems coordinate organs and bodily responses.
+
+Organizations
+Leadership, communication networks, and interpersonal
+relationships align collective activity.
+
+Digital systems
+Control logic coordinates processes and information flows.
+
+This function enables the system to interpret environmental
+signals and organise appropriate responses.
+
+
+------------------------------------------------------------
+C2 — Identity Function
+------------------------------------------------------------
+
+The identity function maintains the boundary that distinguishes
+the system from its environment.
+
+Without identity, a system cannot determine what belongs to
+itself and what belongs to external surroundings.
+
+Examples:
+
+Biological systems
+Immune systems and cellular boundaries protect the organism.
+
+Institutions
+Legitimacy, governance structures, and legal recognition define
+organizational identity.
+
+Information systems
+Authentication and identity protocols determine system
+membership.
+
+The identity function protects system integrity and preserves
+coherent existence.
+
+
+------------------------------------------------------------
+C3 — Structural Function
+------------------------------------------------------------
+
+The structural function provides the architecture that links
+system components into a coherent whole.
+
+Without structure, coordination cannot be sustained because
+relationships between components become unstable.
+
+Examples:
+
+Biological systems
+Skeletal systems and internal organ structures.
+
+Organizations
+Institutional rules, procedures, and infrastructures.
+
+Technical systems
+Network protocols, databases, and software architecture.
+
+Structure enables consistent interactions among components.
+
+
+------------------------------------------------------------
+C4 — Capacity Function
+------------------------------------------------------------
+
+The capacity function represents the operational ability of
+the system to perform actions and produce outcomes.
+
+Without capacity, a system cannot respond effectively to
+environmental demands.
+
+Examples:
+
+Biological systems
+Metabolism and muscular activity.
+
+Organizations
+Operational workforce, production capability, and technical
+expertise.
+
+Technical systems
+Computing power, energy supply, and processing capability.
+
+Capacity enables the system to convert coordinated intention
+into real-world action.
+
+
+------------------------------------------------------------
+C5 — Relationship to Continuation
+------------------------------------------------------------
+
+Continuation requires that these four functions operate
+simultaneously.
+
+If any one of these capacities collapses, the system’s ability
+to persist across time becomes threatened.
+
+Examples:
+
+Loss of coordination
+→ internal conflict and disorder
+
+Loss of identity
+→ dissolution into surrounding environment
+
+Loss of structure
+→ breakdown of system organization
+
+Loss of capacity
+→ inability to act or adapt
+
+Thus continuation can be interpreted as the sustained
+operation of these four functional capacities.
+
+
+------------------------------------------------------------
+C6 — Relationship to Trust Framework
+------------------------------------------------------------
+
+Within the broader continuation framework, the Trust Framework
+can be understood as a coordination model operating primarily
+within the coordination function.
+
+Trust mechanisms help align behaviour among agents when future
+interaction is expected.
+
+The four trust lenses correspond closely to the functional
+capacities described here:
+
+Interpersonal → Coordination
+Identity → Boundary and legitimacy
+Structural → Institutional architecture
+Capacity → Operational capability
+
+
+------------------------------------------------------------
+C7 — Interpretive Summary
+------------------------------------------------------------
+
+Continuation systems therefore appear to rely on four
+fundamental functional primitives:
+
+Coordination
+Identity
+Structure
+Capacity
+
+These capacities provide the minimal conditions necessary for
+a system to maintain coherent interaction with its environment
+across time.
+
+
+------------------------------------------------------------
+END APPENDIX
+------------------------------------------------------------
