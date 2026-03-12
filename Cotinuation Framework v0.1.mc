@@ -402,3 +402,142 @@ derived coordination mechanisms described in the main text.
 ------------------------------------------------------------
 END APPENDIX
 ------------------------------------------------------------
+
+------------------------------------------------------------
+APPENDIX B — PURPOSE AND MECHANISM IN COORDINATION SYSTEMS
+Continuation Framework v0.1
+------------------------------------------------------------
+
+Purpose
+------------------------------------------------------------
+
+This appendix clarifies the conceptual distinction between
+system purpose and coordination mechanisms.
+
+Many existing theories analyse how cooperation, coordination,
+or institutional behaviour occurs. However these theories
+typically focus on mechanisms rather than the underlying
+condition that makes such mechanisms necessary.
+
+The continuation framework proposes that many coordination
+mechanisms arise because interacting agents must persist
+together across time.
+
+
+------------------------------------------------------------
+B1 — Continuation as Persistence Condition
+------------------------------------------------------------
+
+Continuation refers to the persistence of agents, systems,
+or cooperative structures across time.
+
+When agents interact only once, coordination mechanisms such
+as trust or reputation are largely unnecessary.
+
+However when interaction persists across multiple periods,
+uncertainty about future behaviour emerges.
+
+Under these conditions coordination mechanisms become useful
+for stabilising cooperation.
+
+Thus continuation can be interpreted as a persistence
+condition that creates the environment in which coordination
+mechanisms arise.
+
+
+------------------------------------------------------------
+B2 — Mechanisms of Coordination
+------------------------------------------------------------
+
+Various disciplines study mechanisms that enable cooperation
+under conditions of uncertainty.
+
+Examples include:
+
+Game Theory
+Strategic interaction models that analyse cooperation and
+defection across repeated interactions.
+
+Institutional Economics
+Rules, norms, and governance systems that stabilise
+cooperation between agents.
+
+Systems Theory
+Feedback and control structures that maintain system
+stability.
+
+Evolutionary Theory
+Selection processes that favour behaviours supporting
+long-term survival.
+
+These mechanisms can be interpreted as different responses
+to the challenge of maintaining cooperative interaction
+over time.
+
+
+------------------------------------------------------------
+B3 — Relationship Between Purpose and Mechanism
+------------------------------------------------------------
+
+The continuation framework distinguishes two analytical
+layers.
+
+Persistence Condition
+
+The requirement that interacting agents must maintain
+coexistence across time.
+
+Coordination Mechanisms
+
+The institutional, behavioural, or informational systems
+that allow cooperation to remain stable under this condition.
+
+
+Conceptual structure:
+
+Continuation (persistence condition)
+↓
+Need for stable cooperation
+↓
+Coordination mechanisms emerge
+↓
+Examples: trust, reputation, institutions
+
+
+------------------------------------------------------------
+B4 — Implication for Trust Framework
+------------------------------------------------------------
+
+The Trust Framework can therefore be interpreted as a
+coordination model operating within the continuation
+condition.
+
+Trust, credibility, and credit function as mechanisms
+that help stabilise cooperation when agents expect their
+interactions to persist across time.
+
+Within this interpretation, trust is not the primitive
+foundation of cooperation, but a coordination response
+to the persistence of interaction.
+
+
+------------------------------------------------------------
+B5 — Conceptual Position
+------------------------------------------------------------
+
+The continuation framework does not replace existing
+coordination theories.
+
+Instead it provides a higher-level interpretive layer
+that explains why such mechanisms appear across many
+domains including biological systems, institutions,
+and economic networks.
+
+Many coordination theories can therefore be understood
+as specialised responses to the fundamental condition
+of continuation.
+
+
+------------------------------------------------------------
+END APPENDIX
+------------------------------------------------------------
