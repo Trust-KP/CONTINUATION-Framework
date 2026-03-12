@@ -225,3 +225,180 @@ stable cooperative systems emerge, scale, and persist.
 ------------------------------------------------------------
 END DOCUMENT
 ------------------------------------------------------------
+------------------------------------------------------------
+APPENDIX A — CONCEPTUAL CLARIFICATIONS
+Continuation Framework v0.1
+------------------------------------------------------------
+
+Purpose
+------------------------------------------------------------
+
+This appendix records several conceptual observations that
+emerged during the development of the Continuation Framework.
+
+These observations do not modify the core structure of the
+framework presented in the main text. Instead they clarify
+how certain insights were reached and identify methodological
+patterns that may assist future theoretical development.
+
+
+------------------------------------------------------------
+A1 — Primitive Identification
+------------------------------------------------------------
+
+During early development, the theoretical focus was placed on
+trust as the central organizing concept.
+
+However, further examination revealed that trust itself
+requires explanation.
+
+Trust only becomes meaningful when agents must interact
+repeatedly across time and when the continuation of a
+cooperative relationship matters.
+
+This observation led to the identification of a deeper
+primitive condition.
+
+Primitive:
+
+Continuation
+
+Continuation refers to the persistence of agents, systems,
+or cooperative structures across time.
+
+Within this perspective, trust becomes a coordination
+mechanism that emerges when continuation of interaction
+is required.
+
+Conceptual hierarchy:
+
+Continuation
+↓
+Coexistence
+↓
+Coordination mechanisms
+↓
+Trust
+↓
+Credibility
+↓
+Credit
+↓
+Institutional systems
+
+
+------------------------------------------------------------
+A2 — Vertical Discovery of Primitives
+------------------------------------------------------------
+
+An important methodological observation emerged during
+the investigation of the Trust Framework.
+
+Existing theoretical structures may reveal deeper primitives
+when unresolved dependencies within the structure are examined.
+
+This process may be described as vertical discovery.
+
+Rather than starting directly from primitives, the researcher
+begins with a structured framework and investigates the
+conditions required for that framework to function.
+
+Example discovery path observed in this project:
+
+Trust Framework
+(Interpersonal / Identity / Structural / Capacity pillars)
+
+↓ investigation of system stability
+
+Requirement for persistent cooperative interaction
+
+↓ deeper condition identified
+
+Continuation
+
+Thus structured frameworks can function as probes that reveal
+more fundamental explanatory conditions.
+
+
+------------------------------------------------------------
+A3 — Theory Discovery as a Process
+------------------------------------------------------------
+
+The development process of the framework suggests that theory
+formation may itself follow a recognizable sequence.
+
+Observed sequence:
+
+Observation
+↓
+Concept exploration
+↓
+Identification of conceptual inconsistencies
+↓
+Primitive discovery
+↓
+Structural reorganisation
+↓
+Derivation of dependent concepts
+
+The identification of primitives appears to act as a major
+acceleration point in theoretical development.
+
+Once the primitive is correctly identified, large portions
+of the theoretical structure may become clearer.
+
+
+------------------------------------------------------------
+A4 — Temporal Layers of Coordination Systems
+------------------------------------------------------------
+
+During the exploration of economic and institutional
+coordination systems, it became apparent that coordination
+often operates across multiple temporal layers.
+
+Three temporal layers appear frequently in cooperative systems.
+
+Production Temporal
+
+Immediate creation of value or contribution.
+
+Trust Temporal
+
+Accumulation of trust signals across repeated interactions.
+
+Credit Temporal
+
+Projection of expected future continuation based on
+historical trust signals.
+
+Simplified temporal structure:
+
+Production
+↓
+Trust accumulation
+↓
+Credit projection
+
+These temporal layers appear in many institutional systems
+including economic exchange, organizational cooperation,
+and reputation systems.
+
+
+------------------------------------------------------------
+A5 — Status of These Observations
+------------------------------------------------------------
+
+The observations recorded in this appendix are preliminary
+methodological insights.
+
+They document conceptual pathways encountered during the
+development of the Continuation Framework and may assist
+future refinement of the theory.
+
+The main structure of the Continuation Framework remains
+defined by the primitive concept of continuation and the
+derived coordination mechanisms described in the main text.
+
+------------------------------------------------------------
+END APPENDIX
+------------------------------------------------------------
