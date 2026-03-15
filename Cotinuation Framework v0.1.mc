@@ -732,4 +732,162 @@ across time.
 
 ------------------------------------------------------------
 END APPENDIX
+-------------------------------------------------------------
+
+------------------------------------------------------------
+APPENDIX D
+CONTINUATION THEORY — PHYSICAL SYSTEM INTERPRETATION
+Radioactive Stability and Identity Transition
+------------------------------------------------------------
+
+Purpose
+-------
+This appendix provides a physical illustration of the Continuation
+Theory primitives by examining radioactive decay in atomic systems.
+The example demonstrates how structural instability prevents the
+continuation of a system identity and forces a transition toward a
+more stable configuration.
+
+This case illustrates that continuation is not guaranteed. Systems
+may temporarily exist in unstable states before transitioning into
+configurations capable of sustaining continuation.
+
+------------------------------------------------------------
+1. RADIOACTIVE SYSTEM DESCRIPTION
+------------------------------------------------------------
+
+Radioactive decay occurs when an atomic nucleus exists in a
+structurally unstable configuration due to imbalances between
+protons and neutrons or excessive internal energy.
+
+Example transformation:
+
+    Uranium-238 → Thorium-234 + α particle
+
+The original nuclear configuration cannot maintain structural
+stability under nuclear force interactions. The system therefore
+reorganizes into a lower-energy configuration.
+
+In physical terms:
+
+    unstable configuration → stable configuration
+
+This transformation can be interpreted within the continuation
+framework as a transition between system identities when the
+conditions required for continuation are no longer satisfied.
+
+------------------------------------------------------------
+2. CONTINUATION PRIMITIVES APPLIED TO RADIOACTIVE SYSTEMS
+------------------------------------------------------------
+
+Identity
+    The distinguishable atomic nucleus being observed.
+
+    Example:
+        Uranium-238 nucleus
+        Thorium-234 nucleus
+
+    Identity represents the specific nuclear configuration whose
+    continuation is being evaluated.
+
+Capability
+    The inherent physical potential of the nucleus to undergo
+    transformation through radioactive emission.
+
+    Examples:
+        alpha emission
+        beta decay
+        gamma radiation
+
+    These capabilities arise from the energetic imbalance of the
+    nucleus.
+
+Structure
+    The internal configuration of protons and neutrons held together
+    by nuclear forces.
+
+    Structural instability arises when nuclear binding forces cannot
+    maintain equilibrium between the particles within the nucleus.
+
+Coordination
+    The interaction dynamics among nuclear particles governed by the
+    strong nuclear force and electromagnetic repulsion.
+
+    When these interactions cannot maintain stable equilibrium,
+    the nucleus becomes unstable.
+
+------------------------------------------------------------
+3. CONTINUATION FAILURE AND IDENTITY TRANSITION
+------------------------------------------------------------
+
+Within the continuation framework, radioactive decay can be
+interpreted as a failure of structural continuation.
+
+The unstable nucleus cannot maintain the conditions required
+for continued existence of its identity.
+
+Process:
+
+    Unstable Identity
+        ↓
+    Structural Instability
+        ↓
+    Coordination Breakdown
+        ↓
+    Identity Transformation
+        ↓
+    Stable Identity
+
+Example:
+
+    Uranium-238 continuation fails
+        ↓
+    radioactive emission
+        ↓
+    Thorium-234 continuation begins
+
+The decay event therefore represents an identity transition
+from an unstable system configuration to a configuration with
+greater structural stability.
+
+------------------------------------------------------------
+4. INTERPRETATION WITHIN CONTINUATION THEORY
+------------------------------------------------------------
+
+Radioactive decay illustrates an important principle of
+Continuation Theory:
+
+    Continuation requires structural stability.
+
+When structural conditions cannot sustain equilibrium,
+the system identity cannot persist.
+
+The system therefore transitions to a new configuration
+that can maintain continuation under the governing
+physical constraints.
+
+This process demonstrates that continuation operates
+even at the physical level of matter. Systems persist only
+when their internal structure and interaction dynamics
+remain capable of sustaining their identity across time.
+
+------------------------------------------------------------
+5. PRINCIPLE ILLUSTRATED
+------------------------------------------------------------
+
+The radioactive decay example demonstrates the following
+general continuation principle:
+
+    If structural and coordination conditions cannot
+    sustain a system identity, continuation collapses
+    and the system transitions to a new identity with
+    greater stability.
+
+This example shows how the continuation primitives
+(Identity, Capability, Structure, Coordination)
+can be applied to physical systems in addition to
+biological, institutional, and cooperative systems.
+
+------------------------------------------------------------
+End of Appendix
 ------------------------------------------------------------
