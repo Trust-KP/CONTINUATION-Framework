@@ -891,3 +891,168 @@ biological, institutional, and cooperative systems.
 ------------------------------------------------------------
 End of Appendix
 ------------------------------------------------------------
+
+------------------------------------------------------------
+APPENDIX E
+CONTINUATION THEORY — THERMODYNAMICS AND ENTROPY
+Physical Constraints on System Continuation
+------------------------------------------------------------
+
+Purpose
+-------
+This appendix interprets thermodynamic principles within the
+Continuation Theory framework. It explains how entropy and
+energy flow impose fundamental constraints on the ability of
+systems to sustain continuation across time.
+
+Thermodynamics provides the physical boundary conditions
+within which continuation must operate.
+
+------------------------------------------------------------
+1. THERMODYNAMIC PRINCIPLES
+------------------------------------------------------------
+
+Two thermodynamic laws are particularly relevant to
+Continuation Theory.
+
+First Law of Thermodynamics
+    Energy cannot be created or destroyed.
+    It can only be transformed or transferred.
+
+Second Law of Thermodynamics
+    In closed systems, entropy tends to increase.
+    Ordered structures gradually move toward disorder.
+
+These laws imply that systems do not persist automatically.
+Without continuous input of energy and corrective processes,
+structures degrade and organization collapses.
+
+------------------------------------------------------------
+2. ENTROPY AND SYSTEM STABILITY
+------------------------------------------------------------
+
+Entropy represents the tendency of systems to move toward
+more probable and less ordered configurations.
+
+Examples:
+
+    metal structures corrode
+    buildings deteriorate
+    biological organisms age
+    institutions decay without maintenance
+
+Entropy therefore acts as a universal pressure opposing
+system continuation.
+
+Within this context, continuation requires systems to
+actively counteract entropic degradation.
+
+------------------------------------------------------------
+3. CONTINUATION PRIMITIVES UNDER THERMODYNAMIC CONSTRAINTS
+------------------------------------------------------------
+
+Identity
+    The distinguishable state of a system must remain
+    sufficiently stable to be recognized across time.
+
+    Entropy erodes identity by gradually degrading the
+    structures that define the system.
+
+Capability
+    Systems must possess the functional ability to repair,
+    reproduce, or maintain their internal order.
+
+    Examples:
+        biological metabolism
+        institutional governance
+        technological maintenance
+
+Structure
+    The organized arrangement of system components that
+    enables stability.
+
+    Structural degradation occurs when entropic forces
+    weaken the bonds, rules, or arrangements that hold
+    the system together.
+
+Coordination
+    The dynamic interaction processes that maintain
+    system stability.
+
+    Coordination includes mechanisms that detect
+    instability and respond with corrective actions.
+
+------------------------------------------------------------
+4. ENERGY FLOW AND CONTINUATION
+------------------------------------------------------------
+
+Open systems can maintain order by importing energy
+and exporting entropy to their environment.
+
+Examples:
+
+    living organisms consume food and release heat
+    ecosystems rely on solar energy
+    economies consume energy to sustain production
+    institutions expend resources to maintain structure
+
+Continuation therefore requires a continuous flow of
+energy or resources capable of offsetting entropic decay.
+
+Without such flows, structural integrity gradually
+deteriorates and continuation fails.
+
+------------------------------------------------------------
+5. ENTROPY AS A LIMIT TO CONTINUATION
+------------------------------------------------------------
+
+Thermodynamics establishes a fundamental boundary:
+
+    continuation is not permanent.
+
+All systems face eventual degradation unless energy,
+resources, and coordination mechanisms sustain their
+structures.
+
+Examples:
+
+    stars exhaust nuclear fuel
+    civilizations collapse when coordination fails
+    ecosystems shift when energy balances change
+
+Entropy therefore represents the universal pressure
+against which continuation systems must operate.
+
+------------------------------------------------------------
+6. CONTINUATION INTERPRETATION
+------------------------------------------------------------
+
+Within the Continuation Theory framework,
+thermodynamics can be interpreted as the physical
+constraint governing system persistence.
+
+Continuation requires that systems maintain
+sufficient capability, structure, and coordination
+to resist entropic pressures.
+
+When entropic forces exceed a system's capacity
+to maintain order, continuation collapses.
+
+------------------------------------------------------------
+7. PRINCIPLE ILLUSTRATED
+------------------------------------------------------------
+
+The thermodynamic interpretation demonstrates a
+general continuation principle:
+
+    Systems persist only when their internal
+    organization and coordination are capable of
+    counteracting entropic degradation.
+
+Continuation therefore represents the dynamic
+maintenance of order against the universal
+tendency toward disorder.
+
+------------------------------------------------------------
+End of Appendix
+------------------------------------------------------------
