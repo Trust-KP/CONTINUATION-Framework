@@ -58,7 +58,15 @@ Continuation is therefore treated as the only primitive.
 
 It is not derived from other concepts.
 
-All observable system structures arise as necessary responses to the requirement of continuation under uncertainty.
+These observable system structures arise as necessary responses to the requirement of continuation under uncertainty.
+
+Continuation is inherently temporal.
+
+A system that sustains continuation under uncertainty operates across time.
+
+System primitives and coordination architecture are expressed across time.
+
+Temporal is not a separate structural component, but a dimension across all layers of the system.
 
 ---
 
@@ -121,22 +129,35 @@ The recurring structures observed across systems are not arbitrary.
 
 They are necessary manifestations of continuation under constraint.
 
-Across domains, systems consistently exhibit four structural functions:
+Across coordination systems, recurring structural functions are observed:
 
 - Interpretation  
 - Framework  
 - Regime  
 - Operation  
 
-These are not treated as independent primitives.
+These functions describe the architecture of systems that coordinate under uncertainty.
 
-They are necessary structural responses that arise from continuation.
+They are not the most primitive structural layer of a system.
 
-Their detailed treatment is developed in subsequent parts.
+## 7. System Primitives
+
+A system that sustains continuation under uncertainty expresses four underlying primitives:
+
+- Identity — what exists  
+- Structure — what constrains  
+- Capacity — what is possible  
+- Realisation — what occurs  
+
+These primitives are not specific to coordination systems.
+
+They are expressed across systems, including physical and coordination systems.
+
+They represent the minimal structure through which continuation is realised.
 
 ---
 
-## 7. Primitive–Structure Relationship
+## 8. Primitive–Structure Relationship
 
 The relationship between continuation and system structure can be stated as follows:
 
@@ -154,31 +175,50 @@ Confusing these levels leads to:
 - instability in system description  
 
 ---
+## 8. Hierarchical Structure
 
-## 8. Minimal Formulation
+The theory distinguishes three levels:
 
-The theory may be expressed in minimal form as:
+1. Continuation  
+   → the primitive condition of persistence across time  
 
-A system is an arrangement that sustains continuation under uncertainty.
+2. System Primitives  
+   → Identity, Structure, Capacity, Realisation  
 
-Continuation is the only primitive.
+3. Coordination Architecture  
+   → Interpretation, Framework, Regime, Operation  
 
-All observable system structures arise as necessary manifestations enabling the system to persist.
+Confusing these levels leads to:
+
+- over-specification of primitives  
+- collapse of causal hierarchy  
+- instability in system description
+
+-----
+
+## 9. Minimal Formulation
+
+A system that sustains continuation under uncertainty exhibits:
+
+- continuation as the primitive condition  
+- identity, structure, capacity, and realisation as system primitives  
+
+Systems that coordinate under uncertainty further exhibit:
+
+- interpretation, framework, regime, and operation as descriptive architecture  
+
+These are expressed across time.
 
 ---
 
-## 9. Transition to Structural Parts
+## 10. Transition to Structural Parts
 
-The subsequent parts develop the four necessary structural functions:
+The subsequent parts develop:
 
-- Interpretation — formation of expectation from observation  
-- Framework — definition and organisation of structure  
-- Regime — arrangement of coordination and control  
-- Operation — realised execution and behaviour  
+- the descriptive architecture of coordination systems  
+- the regime, operation, and capacity of a system  
 
-These do not replace the primitive.
-
-They express how the primitive is sustained.
+These operate above the system primitives and express how continuation is sustained under uncertainty.
 
 ---
 
@@ -281,7 +321,9 @@ This leads to:
 - short-term behaviour dominance
 - loss of coordination
 
-Interpretation instability is therefore a primary driver of system breakdown.
+These challenges give rise to coordination architecture in systems that coordinate under uncertainty.
+
+They do not define the most primitive structure of a system.
 
 ---
 
