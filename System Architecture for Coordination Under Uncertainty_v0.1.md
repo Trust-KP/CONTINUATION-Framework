@@ -155,6 +155,8 @@ They are expressed across systems, including physical and coordination systems.
 
 They represent the minimal structure through which continuation is realised.
 
+These primitives define the space of possible system behaviour; coordination architecture defines how behaviour is stabilised under uncertainty.
+
 ---
 
 ## 8. Primitive–Structure Relationship
@@ -216,7 +218,7 @@ These are expressed across time.
 The subsequent parts develop:
 
 - the descriptive architecture of coordination systems  
-- the regime, operation, and capacity of a system  
+- the regime, operation, and capacity of a system as realised layers  
 
 These operate above the system primitives and express how continuation is sustained under uncertainty.
 
@@ -224,7 +226,7 @@ These operate above the system primitives and express how continuation is sustai
 
 ## 10. One-Line Summary
 
-Continuation is the primitive; structure emerges as the necessary means through which continuation is sustained under uncertainty.
+Continuation is the primitive; identity, structure, capacity, and realisation express how systems persist, and coordination architecture enables continuation under uncertainty.
 
 ---
 
@@ -324,6 +326,8 @@ This leads to:
 These challenges give rise to coordination architecture in systems that coordinate under uncertainty.
 
 They do not define the most primitive structure of a system.
+
+These challenges give rise to coordination architecture in systems that coordinate under uncertainty, but do not define the most primitive structure of a system.
 
 ---
 
